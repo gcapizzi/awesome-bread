@@ -16,6 +16,11 @@ A list of my favourite resources about baking bread&amp;c.
 * [École internationale de boulangerie](https://ecoleinternationaledeboulangerie.fr/en/tutos.php)
 * [King Arthur Flour - Techniques for the Professional Baker](https://www.kingarthurflour.com/videos/professional-techniques)
 * [Trevor J. Wilson](https://www.youtube.com/channel/UCRK2AFfEfjhFcpYtu44Uzvw)
+* San Francisco Baking Institute
+  - [High Hydration Dough Shaping](https://www.youtube.com/watch?v=vEG1BjWroT0)
+  - [Dusting flour](https://www.youtube.com/watch?v=haCNkkj34JU)
+  - [Scoring baguettes](https://www.youtube.com/watch?v=1ebKpEG0tBM)
+* [Chad Robertson masterclass at Meyers Madhus in Copenhagen](https://www.youtube.com/watch?v=cIIjV6s-0cA)
 
 ## Books
 
@@ -28,5 +33,3 @@ A list of my favourite resources about baking bread&amp;c.
 * [King Arthur Flour - Professional Baker's Reference](https://www.kingarthurflour.com/professional/bakers-reference.html)
 * [King Arthur Flour - Baker’s Formulas](https://www.kingarthurflour.com/professional/formulas.html)
 * [Baker's yeast quantity prediction model](https://www.pizzamaking.com/forum/index.php?topic=26831.0)
-* [San Francisco Baking Institute - High Hydration Dough Shaping](https://www.youtube.com/watch?v=vEG1BjWroT0)
-* [Chad Robertson masterclass i Meyers Madhus](https://www.youtube.com/watch?v=cIIjV6s-0cA&feature=youtu.be)
