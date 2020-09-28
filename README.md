@@ -26,6 +26,7 @@ A list of my favourite resources about baking bread&amp;c.
 
 * [Ken Forkish - Flour Water Salt Yeast: The Fundamentals of Artisan Bread and Pizza](http://kensartisan.com/flour-water-salt-yeast/)
 * [Jeffrey Hamelman - Bread: A Baker's Book of Techniques and Recipes](https://www.goodreads.com/book/show/153240.Bread)
+* [Chad Robertson - Tartine Bread](https://www.goodreads.com/book/show/8185785-tartine-bread)
 
 ## Other resources
 
