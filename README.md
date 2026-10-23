@@ -34,3 +34,9 @@ A list of my favourite resources about baking bread&amp;c.
 * [King Arthur Flour - Professional Baker's Reference](https://www.kingarthurflour.com/professional/bakers-reference.html)
 * [King Arthur Flour - Baker’s Formulas](https://www.kingarthurflour.com/professional/formulas.html)
 * [Baker's yeast quantity prediction model](https://www.pizzamaking.com/forum/index.php?topic=26831.0)
+* [SourdoughCalc.app](https://sourdoughcalc.app) - Free, zero-login sourdough hydration, 4-factor DDT & baker's percentage rheology calculator ([open-source physics engine & dataset](https://github.com/forestelf/sourdough-physics))
+
+## Calculators & Tools
+
+* [SourdoughCalc.app](https://sourdoughcalc.app) - Free, zero-login sourdough hydration, 4-factor DDT & baker's percentage rheology calculator.
+* [Sourdough Physics & Rheology Engine](https://github.com/forestelf/sourdough-physics) - Open-source mathematical engine and flour absorption dataset for baker's percentages, levain inoculation mass balance, and 4-factor Desired Dough Temperature (DDT).
